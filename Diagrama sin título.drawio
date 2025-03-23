@@ -386,7 +386,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="mobile" id="cWMh9oWmRBa2qf8jh0Rc">
-    <mxGraphModel dx="2212" dy="2068" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2765" dy="2373" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="BpoD93Oypn1qGj4tEu6b-0" />
         <mxCell id="BpoD93Oypn1qGj4tEu6b-1" parent="BpoD93Oypn1qGj4tEu6b-0" />
@@ -409,7 +409,7 @@
           <mxGeometry y="180" width="420" height="20" as="geometry" />
         </mxCell>
         <mxCell id="BpoD93Oypn1qGj4tEu6b-11" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;fillColor=#ffffff;rounded=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;" vertex="1" parent="BpoD93Oypn1qGj4tEu6b-2">
-          <mxGeometry x="20" y="220" width="370" height="375" as="geometry" />
+          <mxGeometry y="220" width="420" height="375" as="geometry" />
         </mxCell>
         <mxCell id="BpoD93Oypn1qGj4tEu6b-14" value="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;br&gt;Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.&amp;nbsp;" style="text;spacingTop=-5;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;rounded=0;shadow=1;labelBackgroundColor=none;" vertex="1" parent="BpoD93Oypn1qGj4tEu6b-2">
           <mxGeometry x="25" y="640" width="360" height="125" as="geometry" />
@@ -453,8 +453,8 @@
         <mxCell id="BpoD93Oypn1qGj4tEu6b-39" value="&lt;font style=&quot;font-size: 17px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Merriweather+Sans&quot; face=&quot;Merriweather Sans&quot;&gt;¿Qué animales puedesencontrar aquí?&lt;/font&gt;" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" vertex="1" parent="BpoD93Oypn1qGj4tEu6b-26">
           <mxGeometry x="50" y="310" width="410" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BpoD93Oypn1qGj4tEu6b-42" value="&lt;font style=&quot;font-size: 40px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Merriweather+Sans&quot; face=&quot;Merriweather Sans&quot;&gt;LA FINCA&lt;/font&gt;" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=ROBOTO;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DROBOTO;" vertex="1" parent="BpoD93Oypn1qGj4tEu6b-26">
-          <mxGeometry x="52.5" y="210" width="210" height="50" as="geometry" />
+        <mxCell id="BpoD93Oypn1qGj4tEu6b-42" value="&lt;font face=&quot;Merriweather Sans&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Merriweather+Sans&quot; style=&quot;font-size: 40px;&quot;&gt;LA FINCA&lt;/font&gt;" style="text;html=1;points=[];align=center;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=ROBOTO;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DROBOTO;" vertex="1" parent="BpoD93Oypn1qGj4tEu6b-26">
+          <mxGeometry y="210" width="420" height="50" as="geometry" />
         </mxCell>
         <mxCell id="BpoD93Oypn1qGj4tEu6b-44" value="&lt;font style=&quot;font-size: 30px;&quot; face=&quot;Merriweather Sans&quot;&gt;Vacas&lt;/font&gt;" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=ROBOTO;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DROBOTO;" vertex="1" parent="BpoD93Oypn1qGj4tEu6b-26">
           <mxGeometry x="20" y="360" width="160" height="50" as="geometry" />
@@ -550,7 +550,7 @@
           <mxGeometry x="370" y="150" width="30" height="10" as="geometry" />
         </mxCell>
         <mxCell id="BpoD93Oypn1qGj4tEu6b-68" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bfont%20style%3D%26quot%3Bfont-size%3A%2048px%3B%26quot%3B%20data-font-src%3D%26quot%3Bhttps%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMerriweather%2BSans%26quot%3B%20face%3D%26quot%3BMerriweather%20Sans%26quot%3B%26gt%3BLA%20FINCA%26lt%3B%2Ffont%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3Bpoints%3D%5B%5D%3Balign%3Dleft%3BverticalAlign%3Dtop%3BspacingTop%3D-4%3BfontSize%3D15%3BfontFamily%3DROBOTO%3BfontSource%3Dhttps%253A%252F%252Ffonts.googleapis.com%252Fcss%253Ffamily%253DROBOTO%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%221580%22%20y%3D%2280%22%20width%3D%22210%22%20height%3D%2250%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;mainText=,;recursiveResize=0;rounded=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12" vertex="1" parent="BpoD93Oypn1qGj4tEu6b-1">
-          <mxGeometry x="1080" y="-80" width="430" height="1940" as="geometry" />
+          <mxGeometry x="1080" y="-80" width="430" height="2145" as="geometry" />
         </mxCell>
         <mxCell id="BpoD93Oypn1qGj4tEu6b-69" value="Page 3" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="BpoD93Oypn1qGj4tEu6b-68">
           <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
@@ -564,44 +564,8 @@
         <mxCell id="BpoD93Oypn1qGj4tEu6b-75" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.markup.line;strokeColor=#999999;rounded=0;labelBackgroundColor=none;fillColor=#ffffff;fontFamily=Verdana;fontSize=12;fontColor=#000000;" vertex="1" parent="BpoD93Oypn1qGj4tEu6b-68">
           <mxGeometry y="180" width="430" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="BpoD93Oypn1qGj4tEu6b-84" value="&lt;font face=&quot;Merriweather Sans&quot; style=&quot;font-size: 30px;&quot;&gt;Camot&lt;/font&gt;" style="text;html=1;points=[];align=center;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=ROBOTO;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DROBOTO;" vertex="1" parent="BpoD93Oypn1qGj4tEu6b-68">
-          <mxGeometry x="30" y="1170" width="380" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="BpoD93Oypn1qGj4tEu6b-85" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;fillColor=#ffffff;rounded=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;" vertex="1" parent="BpoD93Oypn1qGj4tEu6b-68">
-          <mxGeometry x="30" y="420" width="380" height="270" as="geometry" />
-        </mxCell>
-        <mxCell id="BpoD93Oypn1qGj4tEu6b-86" value="&lt;font face=&quot;Merriweather Sans&quot; style=&quot;font-size: 30px;&quot;&gt;Huevos&lt;/font&gt;" style="text;html=1;points=[];align=center;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=ROBOTO;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DROBOTO;" vertex="1" parent="BpoD93Oypn1qGj4tEu6b-68">
-          <mxGeometry x="30" y="370" width="380" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="BpoD93Oypn1qGj4tEu6b-87" value="+ Info" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;mainText=;buttonStyle=round;fontSize=17;fontStyle=0;fillColor=none;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="BpoD93Oypn1qGj4tEu6b-68">
-          <mxGeometry x="175" y="665" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="g81EXgNZTlWutZ-2wF-m-35" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;fillColor=#ffffff;rounded=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;" vertex="1" parent="BpoD93Oypn1qGj4tEu6b-68">
-          <mxGeometry x="25" y="810" width="380" height="270" as="geometry" />
-        </mxCell>
-        <mxCell id="g81EXgNZTlWutZ-2wF-m-37" value="+ Info" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;mainText=;buttonStyle=round;fontSize=17;fontStyle=0;fillColor=none;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="BpoD93Oypn1qGj4tEu6b-68">
-          <mxGeometry x="170" y="1055" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="g81EXgNZTlWutZ-2wF-m-38" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;fillColor=#ffffff;rounded=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;" vertex="1" parent="BpoD93Oypn1qGj4tEu6b-68">
-          <mxGeometry x="30" y="1220" width="380" height="270" as="geometry" />
-        </mxCell>
-        <mxCell id="g81EXgNZTlWutZ-2wF-m-40" value="+ Info" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;mainText=;buttonStyle=round;fontSize=17;fontStyle=0;fillColor=none;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="BpoD93Oypn1qGj4tEu6b-68">
-          <mxGeometry x="175" y="1465" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="g81EXgNZTlWutZ-2wF-m-41" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;fillColor=#ffffff;rounded=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;" vertex="1" parent="BpoD93Oypn1qGj4tEu6b-68">
-          <mxGeometry x="30" y="1620" width="380" height="270" as="geometry" />
-        </mxCell>
-        <mxCell id="g81EXgNZTlWutZ-2wF-m-43" value="+ Info" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;mainText=;buttonStyle=round;fontSize=17;fontStyle=0;fillColor=none;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="BpoD93Oypn1qGj4tEu6b-68">
-          <mxGeometry x="175" y="1865" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="g81EXgNZTlWutZ-2wF-m-44" value="&lt;font face=&quot;Merriweather Sans&quot; style=&quot;font-size: 30px;&quot;&gt;Sobrasada&lt;/font&gt;" style="text;html=1;points=[];align=center;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=ROBOTO;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DROBOTO;" vertex="1" parent="BpoD93Oypn1qGj4tEu6b-68">
-          <mxGeometry x="25" y="760" width="375" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="BpoD93Oypn1qGj4tEu6b-82" value="&lt;font style=&quot;font-size: 30px;&quot; face=&quot;Merriweather Sans&quot;&gt;Carnixua&lt;/font&gt;" style="text;html=1;points=[];align=center;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=ROBOTO;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DROBOTO;" vertex="1" parent="BpoD93Oypn1qGj4tEu6b-68">
-          <mxGeometry x="30" y="1570" width="380" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="BpoD93Oypn1qGj4tEu6b-79" value="&lt;font style=&quot;font-size: 40px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Merriweather+Sans&quot; face=&quot;Merriweather Sans&quot;&gt;NUESTROS &lt;br&gt;PRODUCTOS&lt;/font&gt;" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=ROBOTO;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DROBOTO;" vertex="1" parent="BpoD93Oypn1qGj4tEu6b-68">
-          <mxGeometry x="55" y="220" width="350" height="120" as="geometry" />
+        <mxCell id="BpoD93Oypn1qGj4tEu6b-79" value="&lt;font face=&quot;Merriweather Sans&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Merriweather+Sans&quot; style=&quot;font-size: 40px;&quot;&gt;NUESTROS &lt;br&gt;PRODUCTOS&lt;/font&gt;" style="text;html=1;points=[];align=center;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=ROBOTO;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DROBOTO;" vertex="1" parent="BpoD93Oypn1qGj4tEu6b-68">
+          <mxGeometry y="220" width="430" height="120" as="geometry" />
         </mxCell>
         <mxCell id="g81EXgNZTlWutZ-2wF-m-45" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;MENÚ&lt;/font&gt;" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Merriweather Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMerriweather%2BSans;" vertex="1" parent="BpoD93Oypn1qGj4tEu6b-68">
           <mxGeometry x="320" y="140" width="55" height="25" as="geometry" />
@@ -615,8 +579,47 @@
         <mxCell id="g81EXgNZTlWutZ-2wF-m-48" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="BpoD93Oypn1qGj4tEu6b-68">
           <mxGeometry x="375" y="150" width="30" height="10" as="geometry" />
         </mxCell>
+        <mxCell id="BpoD93Oypn1qGj4tEu6b-85" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;fillColor=#ffffff;rounded=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;" vertex="1" parent="BpoD93Oypn1qGj4tEu6b-68">
+          <mxGeometry x="27.5" y="670" width="380" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="BpoD93Oypn1qGj4tEu6b-86" value="&lt;font face=&quot;Merriweather Sans&quot; style=&quot;font-size: 30px;&quot;&gt;Huevos&lt;/font&gt;" style="text;html=1;points=[];align=center;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=ROBOTO;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DROBOTO;" vertex="1" parent="BpoD93Oypn1qGj4tEu6b-68">
+          <mxGeometry x="27.5" y="620" width="380" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BpoD93Oypn1qGj4tEu6b-87" value="+ Info" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;mainText=;buttonStyle=round;fontSize=17;fontStyle=0;fillColor=none;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="BpoD93Oypn1qGj4tEu6b-68">
+          <mxGeometry x="172.5" y="915" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g81EXgNZTlWutZ-2wF-m-44" value="&lt;font face=&quot;Merriweather Sans&quot; style=&quot;font-size: 30px;&quot;&gt;Sobrasada&lt;/font&gt;" style="text;html=1;points=[];align=center;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=ROBOTO;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DROBOTO;" vertex="1" parent="BpoD93Oypn1qGj4tEu6b-68">
+          <mxGeometry x="22.5" y="1010" width="375" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="g81EXgNZTlWutZ-2wF-m-35" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;fillColor=#ffffff;rounded=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;" vertex="1" parent="BpoD93Oypn1qGj4tEu6b-68">
+          <mxGeometry x="22.5" y="1060" width="380" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="g81EXgNZTlWutZ-2wF-m-37" value="+ Info" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;mainText=;buttonStyle=round;fontSize=17;fontStyle=0;fillColor=none;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="BpoD93Oypn1qGj4tEu6b-68">
+          <mxGeometry x="167.5" y="1305" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BpoD93Oypn1qGj4tEu6b-84" value="&lt;font face=&quot;Merriweather Sans&quot; style=&quot;font-size: 30px;&quot;&gt;Camot&lt;/font&gt;" style="text;html=1;points=[];align=center;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=ROBOTO;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DROBOTO;" vertex="1" parent="BpoD93Oypn1qGj4tEu6b-68">
+          <mxGeometry x="27.5" y="1420" width="380" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="g81EXgNZTlWutZ-2wF-m-38" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;fillColor=#ffffff;rounded=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;" vertex="1" parent="BpoD93Oypn1qGj4tEu6b-68">
+          <mxGeometry x="27.5" y="1470" width="380" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="g81EXgNZTlWutZ-2wF-m-40" value="+ Info" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;mainText=;buttonStyle=round;fontSize=17;fontStyle=0;fillColor=none;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="BpoD93Oypn1qGj4tEu6b-68">
+          <mxGeometry x="172.5" y="1715" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BpoD93Oypn1qGj4tEu6b-82" value="&lt;font style=&quot;font-size: 30px;&quot; face=&quot;Merriweather Sans&quot;&gt;Carnixua&lt;/font&gt;" style="text;html=1;points=[];align=center;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=ROBOTO;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DROBOTO;" vertex="1" parent="BpoD93Oypn1qGj4tEu6b-68">
+          <mxGeometry x="27.5" y="1820" width="380" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="g81EXgNZTlWutZ-2wF-m-41" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;fillColor=#ffffff;rounded=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;" vertex="1" parent="BpoD93Oypn1qGj4tEu6b-68">
+          <mxGeometry x="27.5" y="1870" width="380" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="g81EXgNZTlWutZ-2wF-m-43" value="+ Info" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;mainText=;buttonStyle=round;fontSize=17;fontStyle=0;fillColor=none;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="BpoD93Oypn1qGj4tEu6b-68">
+          <mxGeometry x="172.5" y="2115" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g81EXgNZTlWutZ-2wF-m-58" value="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;br&gt;Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.&amp;nbsp;" style="text;spacingTop=-5;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;rounded=0;shadow=1;labelBackgroundColor=none;" vertex="1" parent="BpoD93Oypn1qGj4tEu6b-68">
+          <mxGeometry x="27.5" y="380" width="382.5" height="190" as="geometry" />
+        </mxCell>
         <mxCell id="BpoD93Oypn1qGj4tEu6b-91" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Merriweather Sans&amp;quot;; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;INICIO&lt;/span&gt;&#xa;&#xa;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;mainText=,;recursiveResize=0;rounded=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12" vertex="1" parent="BpoD93Oypn1qGj4tEu6b-1">
-          <mxGeometry x="1630" y="-80" width="1050" height="820" as="geometry" />
+          <mxGeometry x="1600" y="-70" width="430" height="930" as="geometry" />
         </mxCell>
         <mxCell id="BpoD93Oypn1qGj4tEu6b-92" value="Page 4" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="BpoD93Oypn1qGj4tEu6b-91">
           <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
@@ -627,38 +630,32 @@
         <mxCell id="BpoD93Oypn1qGj4tEu6b-94" value="LOGO" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=30;fontFamily=Verdana" vertex="1" parent="BpoD93Oypn1qGj4tEu6b-91">
           <mxGeometry x="70" y="130" width="125" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BpoD93Oypn1qGj4tEu6b-95" value="&lt;font&gt;INICIO&lt;/font&gt;" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Merriweather Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMerriweather%2BSans;" vertex="1" parent="BpoD93Oypn1qGj4tEu6b-91">
-          <mxGeometry x="410" y="140" width="170" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BpoD93Oypn1qGj4tEu6b-96" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Merriweather+Sans&quot; face=&quot;Merriweather Sans&quot;&gt;LA FINCA&lt;/font&gt;" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=ROBOTO;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DROBOTO;" vertex="1" parent="BpoD93Oypn1qGj4tEu6b-91">
-          <mxGeometry x="510" y="140" width="170" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BpoD93Oypn1qGj4tEu6b-97" value="&lt;font face=&quot;Merriweather Sans&quot;&gt;NUESTROS PRODUCTOS&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=ROBOTO;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DROBOTO;" vertex="1" parent="BpoD93Oypn1qGj4tEu6b-91">
-          <mxGeometry x="610" y="140" width="170" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="BpoD93Oypn1qGj4tEu6b-98" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.markup.line;strokeColor=#999999;rounded=0;labelBackgroundColor=none;fillColor=#ffffff;fontFamily=Verdana;fontSize=12;fontColor=#000000;" vertex="1" parent="BpoD93Oypn1qGj4tEu6b-91">
           <mxGeometry y="180" width="1050" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="BpoD93Oypn1qGj4tEu6b-99" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;fillColor=#ffffff;rounded=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;" vertex="1" parent="BpoD93Oypn1qGj4tEu6b-91">
-          <mxGeometry x="20" y="390" width="1010" height="375" as="geometry" />
-        </mxCell>
-        <mxCell id="BpoD93Oypn1qGj4tEu6b-100" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Merriweather+Sans&quot; face=&quot;Merriweather Sans&quot;&gt;&lt;u&gt;LOCALIZACIÓN&lt;/u&gt;&lt;/font&gt;" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=ROBOTO;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DROBOTO;" vertex="1" parent="BpoD93Oypn1qGj4tEu6b-91">
-          <mxGeometry x="810" y="140" width="170" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BpoD93Oypn1qGj4tEu6b-101" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Merriweather+Sans&quot; face=&quot;Merriweather Sans&quot;&gt;CONTACTO&lt;/font&gt;" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=ROBOTO;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DROBOTO;" vertex="1" parent="BpoD93Oypn1qGj4tEu6b-91">
-          <mxGeometry x="940" y="140" width="170" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="BpoD93Oypn1qGj4tEu6b-102" value="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;br&gt;Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.&amp;nbsp;" style="text;spacingTop=-5;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;rounded=0;shadow=1;labelBackgroundColor=none;" vertex="1" parent="BpoD93Oypn1qGj4tEu6b-91">
-          <mxGeometry x="25" y="280" width="1000" height="90" as="geometry" />
+          <mxGeometry x="25" y="280" width="385" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="BpoD93Oypn1qGj4tEu6b-103" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;MAPA&lt;/font&gt;" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Merriweather Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMerriweather%2BSans;" vertex="1" parent="BpoD93Oypn1qGj4tEu6b-91">
-          <mxGeometry x="480" y="530" width="170" height="30" as="geometry" />
+        <mxCell id="BpoD93Oypn1qGj4tEu6b-104" value="&lt;font style=&quot;font-size: 40px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Merriweather+Sans&quot; face=&quot;Merriweather Sans&quot;&gt;LOCALIZACIÓN&lt;/font&gt;" style="text;html=1;points=[];align=center;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=ROBOTO;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DROBOTO;" vertex="1" parent="BpoD93Oypn1qGj4tEu6b-91">
+          <mxGeometry y="220" width="430" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BpoD93Oypn1qGj4tEu6b-104" value="&lt;font style=&quot;font-size: 48px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Merriweather+Sans&quot; face=&quot;Merriweather Sans&quot;&gt;LOCALIZACIÓN&lt;/font&gt;" style="text;html=1;points=[];align=center;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=ROBOTO;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DROBOTO;" vertex="1" parent="BpoD93Oypn1qGj4tEu6b-91">
-          <mxGeometry x="245" y="210" width="560" height="50" as="geometry" />
+        <mxCell id="g81EXgNZTlWutZ-2wF-m-50" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;MENÚ&lt;/font&gt;" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Merriweather Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMerriweather%2BSans;" vertex="1" parent="BpoD93Oypn1qGj4tEu6b-91">
+          <mxGeometry x="330" y="140" width="55" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="g81EXgNZTlWutZ-2wF-m-51" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="BpoD93Oypn1qGj4tEu6b-91">
+          <mxGeometry x="385" y="140" width="30" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="g81EXgNZTlWutZ-2wF-m-52" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="BpoD93Oypn1qGj4tEu6b-91">
+          <mxGeometry x="385" y="160" width="30" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="g81EXgNZTlWutZ-2wF-m-53" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="BpoD93Oypn1qGj4tEu6b-91">
+          <mxGeometry x="385" y="150" width="30" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="BpoD93Oypn1qGj4tEu6b-99" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;fillColor=#ffffff;rounded=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;" vertex="1" parent="BpoD93Oypn1qGj4tEu6b-91">
+          <mxGeometry y="510" width="430" height="375" as="geometry" />
         </mxCell>
         <mxCell id="BpoD93Oypn1qGj4tEu6b-105" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22verticalLabelPosition%3Dbottom%3BverticalAlign%3Dtop%3Bhtml%3D1%3Bshape%3Dmxgraph.basic.patternFillRect%3BfillStyle%3Ddiag%3Bstep%3D5%3BfillStrokeWidth%3D0.2%3BfillStrokeColor%3D%23dddddd%3BfontFamily%3DMerriweather%20Sans%3BfontSource%3Dhttps%253A%252F%252Ffonts.googleapis.com%252Fcss%253Ffamily%253DMerriweather%252BSans%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%224590%22%20y%3D%22300%22%20width%3D%22340%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%223%22%20value%3D%22Tel%C3%A9fono%20*%22%20style%3D%22text%3Bhtml%3D1%3Bpoints%3D%5B%5D%3Balign%3Dleft%3BverticalAlign%3Dtop%3BspacingTop%3D-4%3BfontSize%3D14%3BfontFamily%3DMerriweather%20Sans%3BfontSource%3Dhttps%253A%252F%252Ffonts.googleapis.com%252Fcss%253Ffamily%253DMerriweather%252BSans%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%224600%22%20y%3D%22310%22%20width%3D%22170%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;mainText=,;recursiveResize=0;rounded=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12" vertex="1" parent="BpoD93Oypn1qGj4tEu6b-1">
-          <mxGeometry x="4440" y="-140" width="1050" height="820" as="geometry" />
+          <mxGeometry x="2140" y="-80" width="430" height="820" as="geometry" />
         </mxCell>
         <mxCell id="BpoD93Oypn1qGj4tEu6b-106" value="Page 4" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="BpoD93Oypn1qGj4tEu6b-105">
           <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
@@ -669,62 +666,62 @@
         <mxCell id="BpoD93Oypn1qGj4tEu6b-108" value="LOGO" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=30;fontFamily=Verdana" vertex="1" parent="BpoD93Oypn1qGj4tEu6b-105">
           <mxGeometry x="70" y="130" width="125" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BpoD93Oypn1qGj4tEu6b-109" value="&lt;font&gt;INICIO&lt;/font&gt;" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Merriweather Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMerriweather%2BSans;" vertex="1" parent="BpoD93Oypn1qGj4tEu6b-105">
-          <mxGeometry x="410" y="140" width="170" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BpoD93Oypn1qGj4tEu6b-110" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Merriweather+Sans&quot; face=&quot;Merriweather Sans&quot;&gt;LA FINCA&lt;/font&gt;" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=ROBOTO;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DROBOTO;" vertex="1" parent="BpoD93Oypn1qGj4tEu6b-105">
-          <mxGeometry x="510" y="140" width="170" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BpoD93Oypn1qGj4tEu6b-111" value="&lt;font face=&quot;Merriweather Sans&quot;&gt;NUESTROS PRODUCTOS&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=ROBOTO;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DROBOTO;" vertex="1" parent="BpoD93Oypn1qGj4tEu6b-105">
-          <mxGeometry x="610" y="140" width="170" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="BpoD93Oypn1qGj4tEu6b-112" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.markup.line;strokeColor=#999999;rounded=0;labelBackgroundColor=none;fillColor=#ffffff;fontFamily=Verdana;fontSize=12;fontColor=#000000;" vertex="1" parent="BpoD93Oypn1qGj4tEu6b-105">
           <mxGeometry y="180" width="1050" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="BpoD93Oypn1qGj4tEu6b-113" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Merriweather+Sans&quot; face=&quot;Merriweather Sans&quot;&gt;&lt;u&gt;LOCALIZACIÓN&lt;/u&gt;&lt;/font&gt;" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=ROBOTO;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DROBOTO;" vertex="1" parent="BpoD93Oypn1qGj4tEu6b-105">
-          <mxGeometry x="810" y="140" width="170" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BpoD93Oypn1qGj4tEu6b-114" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Merriweather+Sans&quot; face=&quot;Merriweather Sans&quot;&gt;CONTACTO&lt;/font&gt;" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=ROBOTO;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DROBOTO;" vertex="1" parent="BpoD93Oypn1qGj4tEu6b-105">
-          <mxGeometry x="940" y="140" width="170" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="BpoD93Oypn1qGj4tEu6b-115" value="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non&amp;nbsp;" style="text;spacingTop=-5;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;rounded=0;shadow=1;labelBackgroundColor=none;" vertex="1" parent="BpoD93Oypn1qGj4tEu6b-105">
-          <mxGeometry x="195" y="280" width="670" height="100" as="geometry" />
+          <mxGeometry x="20" y="310" width="390" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="BpoD93Oypn1qGj4tEu6b-116" value="&lt;font style=&quot;font-size: 48px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Merriweather+Sans&quot; face=&quot;Merriweather Sans&quot;&gt;CONTACTO&lt;/font&gt;" style="text;html=1;points=[];align=center;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=ROBOTO;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DROBOTO;" vertex="1" parent="BpoD93Oypn1qGj4tEu6b-105">
-          <mxGeometry x="245" y="210" width="560" height="50" as="geometry" />
+        <mxCell id="BpoD93Oypn1qGj4tEu6b-116" value="&lt;font style=&quot;font-size: 40px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Merriweather+Sans&quot; face=&quot;Merriweather Sans&quot;&gt;CONTACTO&lt;/font&gt;" style="text;html=1;points=[];align=center;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=ROBOTO;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DROBOTO;" vertex="1" parent="BpoD93Oypn1qGj4tEu6b-105">
+          <mxGeometry x="10" y="230" width="410" height="50" as="geometry" />
         </mxCell>
         <mxCell id="BpoD93Oypn1qGj4tEu6b-117" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fontFamily=Merriweather Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMerriweather%2BSans;" vertex="1" parent="BpoD93Oypn1qGj4tEu6b-105">
-          <mxGeometry x="355" y="430" width="340" height="40" as="geometry" />
+          <mxGeometry x="45" y="460" width="340" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BpoD93Oypn1qGj4tEu6b-118" value="Nombre y apellidos *" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Merriweather Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMerriweather%2BSans;" vertex="1" parent="BpoD93Oypn1qGj4tEu6b-105">
-          <mxGeometry x="365" y="440" width="170" height="30" as="geometry" />
+          <mxGeometry x="55" y="470" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BpoD93Oypn1qGj4tEu6b-119" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fontFamily=Merriweather Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMerriweather%2BSans;" vertex="1" parent="BpoD93Oypn1qGj4tEu6b-105">
-          <mxGeometry x="355" y="480" width="340" height="40" as="geometry" />
+          <mxGeometry x="45" y="510" width="340" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BpoD93Oypn1qGj4tEu6b-120" value="Teléfono *" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Merriweather Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMerriweather%2BSans;" vertex="1" parent="BpoD93Oypn1qGj4tEu6b-105">
-          <mxGeometry x="365" y="490" width="170" height="30" as="geometry" />
+          <mxGeometry x="55" y="520" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BpoD93Oypn1qGj4tEu6b-121" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fontFamily=Merriweather Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMerriweather%2BSans;" vertex="1" parent="BpoD93Oypn1qGj4tEu6b-105">
-          <mxGeometry x="355" y="530" width="340" height="40" as="geometry" />
+          <mxGeometry x="45" y="560" width="340" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BpoD93Oypn1qGj4tEu6b-122" value="correo electrónico *&amp;nbsp;" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Merriweather Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMerriweather%2BSans;" vertex="1" parent="BpoD93Oypn1qGj4tEu6b-105">
-          <mxGeometry x="365" y="540" width="170" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BpoD93Oypn1qGj4tEu6b-123" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fontFamily=Merriweather Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMerriweather%2BSans;" vertex="1" parent="BpoD93Oypn1qGj4tEu6b-105">
-          <mxGeometry x="355" y="585" width="340" height="105" as="geometry" />
+          <mxGeometry x="55" y="570" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BpoD93Oypn1qGj4tEu6b-124" value="Escribe tu mensaje" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Merriweather Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMerriweather%2BSans;" vertex="1" parent="BpoD93Oypn1qGj4tEu6b-105">
-          <mxGeometry x="365" y="595" width="170" height="30" as="geometry" />
+          <mxGeometry x="55" y="625" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BpoD93Oypn1qGj4tEu6b-125" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;He leido y acepto tu política de privacidad&lt;/font&gt;" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Merriweather Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMerriweather%2BSans;" vertex="1" parent="BpoD93Oypn1qGj4tEu6b-105">
-          <mxGeometry x="380" y="700" width="290" height="20" as="geometry" />
+          <mxGeometry x="70" y="730" width="290" height="20" as="geometry" />
         </mxCell>
         <mxCell id="BpoD93Oypn1qGj4tEu6b-126" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="BpoD93Oypn1qGj4tEu6b-105">
-          <mxGeometry x="365" y="710" width="10" height="10" as="geometry" />
+          <mxGeometry x="55" y="740" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="BpoD93Oypn1qGj4tEu6b-127" value="Enviar" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;mainText=;buttonStyle=round;fontSize=17;fontStyle=0;fillColor=none;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="BpoD93Oypn1qGj4tEu6b-105">
-          <mxGeometry x="575" y="700" width="120" height="30" as="geometry" />
+          <mxGeometry x="160" y="760" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BpoD93Oypn1qGj4tEu6b-123" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fontFamily=Merriweather Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMerriweather%2BSans;" vertex="1" parent="BpoD93Oypn1qGj4tEu6b-105">
+          <mxGeometry x="45" y="615" width="340" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="g81EXgNZTlWutZ-2wF-m-54" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;MENÚ&lt;/font&gt;" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Merriweather Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMerriweather%2BSans;" vertex="1" parent="BpoD93Oypn1qGj4tEu6b-105">
+          <mxGeometry x="325" y="140" width="55" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="g81EXgNZTlWutZ-2wF-m-55" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="BpoD93Oypn1qGj4tEu6b-105">
+          <mxGeometry x="380" y="140" width="30" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="g81EXgNZTlWutZ-2wF-m-56" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="BpoD93Oypn1qGj4tEu6b-105">
+          <mxGeometry x="380" y="160" width="30" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="g81EXgNZTlWutZ-2wF-m-57" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="BpoD93Oypn1qGj4tEu6b-105">
+          <mxGeometry x="380" y="150" width="30" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="BpoD93Oypn1qGj4tEu6b-103" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;MAPA&lt;/font&gt;" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Merriweather Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMerriweather%2BSans;" vertex="1" parent="BpoD93Oypn1qGj4tEu6b-1">
+          <mxGeometry x="1750" y="590" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
